@@ -1,0 +1,15 @@
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.AssemblyInfoInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.AssemblyInfo.cs
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.csproj.CoreCompileInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.sourcelink.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.deps.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.runtimeconfig.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/bin/Debug/net8.0/InterfaceSegregation.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/refint/InterfaceSegregation.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/InterfaceSegregation.genruntimeconfig.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/InterfaceSegregation/obj/Debug/net8.0/ref/InterfaceSegregation.dll
