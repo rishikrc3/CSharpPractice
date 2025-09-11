@@ -1,6 +1,13 @@
-namespace DefaultNamespace;
+using System;
 
-public class ReportPrinter
+namespace DefaultNamespace
 {
-    
+    public class ReportPrinter
+    {
+        public void Print(Report report)
+        {
+            Console.WriteLine(report.Text);
+        }
+    }
 }
+

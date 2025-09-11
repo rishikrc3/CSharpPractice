@@ -1,0 +1,15 @@
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.deps.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.runtimeconfig.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/bin/Debug/net8.0/SingleResponsibility.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.AssemblyInfoInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.AssemblyInfo.cs
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.csproj.CoreCompileInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/refint/SingleResponsibility.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.genruntimeconfig.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/ref/SingleResponsibility.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/SingleResponsibility/obj/Debug/net8.0/SingleResponsibility.sourcelink.json
