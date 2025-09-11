@@ -1,0 +1,15 @@
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/bin/Debug/net8.0/OpenClosed
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/bin/Debug/net8.0/OpenClosed.deps.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/bin/Debug/net8.0/OpenClosed.runtimeconfig.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/bin/Debug/net8.0/OpenClosed.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/bin/Debug/net8.0/OpenClosed.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.AssemblyInfoInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.AssemblyInfo.cs
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.csproj.CoreCompileInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.sourcelink.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/refint/OpenClosed.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/OpenClosed.genruntimeconfig.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/OpenClosed/obj/Debug/net8.0/ref/OpenClosed.dll
