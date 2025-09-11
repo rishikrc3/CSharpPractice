@@ -1,0 +1,15 @@
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.AssemblyInfoInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.AssemblyInfo.cs
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.csproj.CoreCompileInputs.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.sourcelink.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/bin/Debug/net8.0/LiskovSubstitution
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/bin/Debug/net8.0/LiskovSubstitution.deps.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/bin/Debug/net8.0/LiskovSubstitution.runtimeconfig.json
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/bin/Debug/net8.0/LiskovSubstitution.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/bin/Debug/net8.0/LiskovSubstitution.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/refint/LiskovSubstitution.dll
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.pdb
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/LiskovSubstitution.genruntimeconfig.cache
+/Users/rishik/Desktop/CSharpPractice/SOLID/LiskovSubstitution/obj/Debug/net8.0/ref/LiskovSubstitution.dll
